@@ -19,6 +19,7 @@ public class App {
         var nose=53;
         System.out.println(nose);
         System.out.println("\u00F5");
+        System.out.println("Verificar modificación en gif");
         // Variables enteras: byte:2^8, short, int, long
     }
 }
